@@ -1,4 +1,4 @@
-answer = (int(input("whats 2 + 2")))
+answer = (int(input("whats 2 + 2 ")))
 
 if(answer == 4):
     print("wrong")
