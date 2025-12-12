@@ -1,6 +1,6 @@
-answer = (int(input("whats 2 + 2 ")))
+answer = (int(input("whats the temparature ")))
 
-if(answer == 4):
-    print("wrong")
-if(answer == 22):
-    print("correct!")
+if(answer > 25):
+    print("its hot dont come out take some sunscream")
+if(answer < 20 ):
+    print("its cold take a jacket")
